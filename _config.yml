@@ -103,7 +103,7 @@ analytics:
 author:
   name: "Antonello Provenzano"
   avatar: "/assets/img/antonello.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "I am an **amazing** person."
+  bio: "Man. Architect. Developer."
   location: "Oslo"
   email:
   links:
@@ -138,15 +138,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tsutomi"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    - label: LinkedIn
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/antonello"
 
 # Reading Files
 include:
