@@ -13,7 +13,9 @@ The ambition of this website is not to become any kind of authorative source of 
 ![Antonello](/assets/img/antonello.png){: width="250px" style="float:left; padding-right:10px" } My name is Antonello Provenzano and I was born in Palermo, Sicily in the 198...something (damn, I am old!).
 I developed my professional career towards IT Architecture (as software architect, solution and enterprise architect), but I still keep a sincere passion for software development, that I started when I was just 10 years old (exploiting my Commodore64): while other people go running, playing sports or videogames, I enjoy reading blogs about .NET and develop software projects (open source and proprietary).
 
-In my free time, I enjoy developing .NET projects and services (mostly hosted at [Azure](https://azure.com)), under the umbrella of [Deveel](https://deveel.com): most of them are (or were) open-source, but some others are closed source (although I have the tendency to eventually open them as well): apart from the joy and satisfaction I feel while creating something new, this provides me the possibility to test new technologies, patterns and methodologies.
+I am currently employed as _Senior Consultant_ for [KnowIt Solutions](https://knowit.no), helping organizations to overcome the challenges of architecture design and management, going full-stack from the Enterprise to the System level of details, until implementation and _DevSecOps_ concerns.
+
+In my free time, I enjoy developing .NET projects and services (mostly hosted at [Azure](https://azure.com)), under the umbrella of [Deveel](https://deveel.com), the company that I co-own: most of them are (or were) open-source, but some others are closed source (although I have the tendency to eventually open them as well): apart from the joy and satisfaction I feel while creating something new, this provides me the possibility to test new technologies, patterns and methodologies.
 
 I will try to write about my experience and challenges with them: maybe you will find it useful, or maybe you will come back with some suggestions on how to do better.
 
@@ -21,5 +23,5 @@ I will try to write about my experience and challenges with them: maybe you will
 
 Let me share with you some of the references that are useful to me daily: let me know if you find anything you might find interesting.
 
-* [Martin Fowler's Blog](https://martinfowler.com) - One of the main references for architects, full or material, models, analysis, visions and ideas 
+* [Martin Fowler's Blog](https://martinfowler.com) - One of the main references for architects, full or material, models, analysis, visions and ideas
 * [.NET Blog](https://devblogs.microsoft.com/dotnet/) - The official blog of Microsoft .NET
