@@ -25,3 +25,9 @@ Let me share with you some of the references that are useful to me daily: let me
 
 * [Martin Fowler's Blog](https://martinfowler.com) - One of the main references for architects, full or material, models, analysis, visions and ideas
 * [.NET Blog](https://devblogs.microsoft.com/dotnet/) - The official blog of Microsoft .NET
+* [Unleash IT](https://www.leanix.net/en/resources/podcast) - A podcast series on Enterprise Architecture edited by [LeanIX](https://leanix.net)
+
+## Other Sources
+
+* [Deveel](https://deveel.com) - The company I founded many years ago (then terminated and re-founded recently), to develop software solutions, mostly in the open-source domain of .NET
+* [KnowIT](https://knowit.no) - The consultancy firm where I am fully employed as senior consultant
