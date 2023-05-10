@@ -96,7 +96,7 @@ social:
 analytics:
   provider: "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id: "G-WLLLCP5GN9"
+    tracking_id: "G-F3V8FCL09M"
     anonymize_ip: # true, false (default)
 
 # Site Author
@@ -122,6 +122,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tsutomi"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/antonello"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mastodon.social/@tsutomi"
 
 # Site Footer
 footer:
