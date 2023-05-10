@@ -132,6 +132,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/tsutomi"
+    - label:
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mastodon.social/@tsutomi"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
