@@ -26,6 +26,8 @@ Let me share with you some of the references that are useful to me daily: let me
 * [Martin Fowler's Blog](https://martinfowler.com) - One of the main references for architects, full or material, models, analysis, visions and ideas
 * [.NET Blog](https://devblogs.microsoft.com/dotnet/) - The official blog of Microsoft .NET
 * [Unleash IT](https://www.leanix.net/en/resources/podcast) - A podcast series on Enterprise Architecture edited by [LeanIX](https://leanix.net)
+* [.NET Rocks](https://www.dotnetrocks.com/) - A podcast series on .NET and related technologies, run by [Carl Franklin](https://twitter.com/carlfranklin) and [Richard Campbell](https://twitter.com/richcampbell)
+* [Hanselminutes](https://hanselminutes.com/) - A podcast series on software development and related technologies, run by [Scott Hanselman](https://twitter.com/shanselman)
 
 ## Other Sources
 
