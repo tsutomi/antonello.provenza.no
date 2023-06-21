@@ -15,7 +15,7 @@ A couple of years ago, using the knowledge acquired during my time as architect 
 
 I will not go in details here about the idea, the overall architecture, or its whole implementation, also because I believe that the majority of the project's idea, architecture and code was positive: I will rather share with you the story of how it failed, in a way that some might use as a _cautionary tale_, or as a way to learn from my mistakes (a sort of public _[post-mortem analysis](https://en.wikipedia.org/wiki/Postmortem_documentation)_).
 
-Some of you will recognize some of your own stories in this, but some others (maybe the majority) will read it and think _"I would never do such rookie mistakes"_: that is something I thought myself when reading similar stories posted by others, and given my training as developer, project manager and architect, but I eventually did them myself, once mixing all roles together, and lacking of objectivity.
+Some of you will recognize some of your own stories in this one, but some others (maybe the majority) will read it and think _"I would never do such rookie mistakes"_: that is something I thought myself when reading similar stories posted by others, and given my training as developer, project manager and architect, but I eventually did those mistakes anyway, once mixing all roles together, and losing my objectivity.
 
 ## The Easy Part: A Working Proof-of-Concept
 
