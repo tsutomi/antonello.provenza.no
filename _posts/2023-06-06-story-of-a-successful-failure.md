@@ -9,11 +9,11 @@ excerpt: "Sometimes we succeed to fail, doing something we love, following the w
 
 ![Startup](/assets/img/2023-06-06-story-of-a-successful-failure/light-bulb-ideas-creative-diagram-concept.png)
 
-As you can read from my [profile](/about/), aside from my regular job as _Enterprise Architect_, during my free time I'm a software developer, and I love to create new things, to solve problems: as much as possible, I try to follow the _Lean Startup_ approach, to validate my ideas, and to create a _minimum viable product_ (MVP), eventually trying to scale it to start a business.
+As you can read from my [profile](/about), aside from my regular job as _Enterprise Architect_, during my free time I'm a software developer, and I love to create new things, to solve problems: as much as possible, I try to follow the _Lean Startup_ approach, to validate my ideas, and to create a _minimum viable product_ (MVP), eventually trying to scale it to start a business.
 
 A couple of years ago, using the knowledge acquired during my time as architect in a telecommunication company, I decided to create a messaging platform to offer new way to send and receive A2P (_Application-to-Person_) messages, unifying different types of channels (_email_, _SMS_, _push notifications_, _Telegram_, _WhatsApp_, etc.) through a single API: a platform named _Deveel OCM_ (_Omni-Channel Messaging_).
 
-I will not go in details here about the idea, the overall architecture, or its whole implementation, also because I believe that the majority of the project's idea, architecture and code was positive: I will rather share with you the story of how it failed, in a way that some might use as a _cautionary tale_, or as a way to learn from my mistakes (a sort of public _[port-mortem analysis](https://en.wikipedia.org/wiki/Postmortem_documentation)_).
+I will not go in details here about the idea, the overall architecture, or its whole implementation, also because I believe that the majority of the project's idea, architecture and code was positive: I will rather share with you the story of how it failed, in a way that some might use as a _cautionary tale_, or as a way to learn from my mistakes (a sort of public _[post-mortem analysis](https://en.wikipedia.org/wiki/Postmortem_documentation)_).
 
 Some of you will recognize some of your own stories in this, but some others (maybe the majority) will read it and think _"I would never do such rookie mistakes"_: that is something I thought myself when reading similar stories posted by others, and given my training as developer, project manager and architect, but I eventually did them myself, once mixing all roles together, and lacking of objectivity.
 
