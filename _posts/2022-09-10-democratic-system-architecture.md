@@ -8,6 +8,8 @@ tags:
   - c4
   - agile
 excerpt: "Defying the challenge of letting developers to document the architecture of the systems through the development phases and versions"
+lang: en
+ref: democratic-system-architecture
 ---
 
 Mature organizations require the documentation of the architecture of their systems, for several reasons, like _compliance to regulations_, _cross-team collaboration_, _system design_, although such documentation process is tedious and tends to produce material that goes outdated quickly: because of these and other factors, especially within environments that embrace an _Agile_ culture, the production of architectures, and the whole architecture process, is biased and opposed / discouraged.

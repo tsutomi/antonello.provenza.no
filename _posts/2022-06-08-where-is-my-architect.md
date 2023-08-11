@@ -7,6 +7,8 @@ tags:
   - architecture
   - process
 excerpt: "Several organizations, large or small, employ _architects_ , every time with different expectations, ad-hoc processes and assignments."
+lang: en
+ref: where-is-my-architect
 ---
 
 Not all IT Architects have a technical background (eg. as developers or data analysts), although the majority of us come from such experiences: knowledge of the technical challenges of an architecture is a powerful asset, but sometimes this can lead to confusion in organizations, especially when in a not mature state of growth.

@@ -10,6 +10,8 @@ tags:
   - methodology
   - gartner
 excerpt: "Modern organizations aim for agility to deliver products, while dealing with expectations of control and finance forecasting"
+lang: en
+ref: pace-layered-framework
 ---
 
 It is very common, since more than a decade, that in organizations of a certain size (sometimes even in small ones) multiple and conflicting interests live together, driven by departmental objectives: for instance, _Product Management_ departments aims for new and successful products, _Developers_ aim for freedom to experiment with new methodologies and technologies, _Finance_ and _Management_ departments aim for control over budgets and for revenues.

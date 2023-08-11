@@ -222,6 +222,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-archives
+  - jemoji
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -231,6 +232,7 @@ whitelist:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-archives
+  - jemoji
 
 # Archives
 #  Type
@@ -280,3 +282,11 @@ defaults:
       comments: # true
       share: true
       related: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+lang: "en" # the primary language for site content, e.g. "en", "fr", "es"

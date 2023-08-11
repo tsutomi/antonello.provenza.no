@@ -7,6 +7,8 @@ tags:
   - culture
   - methodology
 excerpt: "To follow the agile iterations and deliveries, ensuring visions and governance, architects cannot be distant from the delivery phases"
+lang: en
+ref: ivory-tower
 ---
 
 As you might agree with me, the traditional role of an architect had a lot to do with _objective analysis_, _clear and standard deliverables_, _considerations of long-term planning horizons_, leaving to other roles within the organization (such as _product owners_, _project managers_, _developers_, etc.) the responsibility to implement and oversee the delivery of the packages identified: this _[waterfall model](https://en.wikipedia.org/wiki/Waterfall_model)_ is challenged by a continuously evolving technological and business context, that risks to reduce, or even erase, the value of some of the analysis delivered in previous stages.

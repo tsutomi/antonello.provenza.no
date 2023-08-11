@@ -1,0 +1,12 @@
+en:
+  label: English
+  icon: 🇬🇧
+  read_it_in: "Read it in"
+nb:
+  label: Norsk (Bokmål)
+  icon: 🇳🇴
+  read_it_in: "Les det på"
+fr:
+  label: Français
+  icon: 🇫🇷
+  read_it_in: "Lisez-le en"

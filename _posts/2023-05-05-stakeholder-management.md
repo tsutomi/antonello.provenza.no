@@ -5,6 +5,8 @@ date: 2023-05-05
 categories: [architecture, management]
 tags: [ requirements, stakeholder, management, architecture ] 
 excerpt: Strong requirements and stakeholder engagement fuel successful Enterprise Architecture, driving alignment, clarity and collaboration towards objectives.
+lang: en
+ref: stakeholder-management
 ---
 
 When it comes to _Enterprise Architecture_, nailing requirements and engaging stakeholders are the secret ingredients that pave the way to success. Within the last years I have been in several situations in which the conflicts, lack of clarity and mixed roles, expectations and responsibilities have been the main reason for the failure of projects. At the same time, I have also learned how to manage these situations and how to avoid them, enhancing the relationships between the various functions of an organization and the IT department.

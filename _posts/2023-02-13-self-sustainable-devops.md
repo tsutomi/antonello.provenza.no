@@ -4,6 +4,8 @@ title: Self-Sustainable DevOps
 categories: [ architecture, devops ]
 tags: [architecture, devops, devsecops, communication, openapi, interfaces, client, microservice]
 excerpt: "Medium and large organization face the issue of collaboration between teams and services: clear boundaries and responsibilities are crucial for success"
+lang: en
+ref: self-sustainable-devops
 ---
 
 ## Teams and Services

@@ -11,6 +11,8 @@ tags:
   - software
   - communication
 excerpt: "No matter how far Architecture is from the code of applications: architects should always keep themselves active coders to fully understand the challenges of technologies and developers"
+lang: en
+ref: architects-should-code
 ---
 
 Following the typical journey made by several architects, I too have started mine through coding software, when I was 10 years old, exploiting a [Commodore64](https://en.wikipedia.org/wiki/Commodore_64) I received as gift from my parents, originally intended for playing videogames: natural curiosity and some basic rudiments of hacking brought me to write my first program in [BASIC](https://en.wikipedia.org/wiki/BASIC), that had the function of adding two numbers.

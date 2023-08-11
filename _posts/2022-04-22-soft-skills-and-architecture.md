@@ -10,6 +10,8 @@ tags:
   - methodology
   - communication
 excerpt: "The changed expectations from architects requires the acquisition and use of soft-skills towards stakeholders to succeed in the role"
+lang: en
+ref: soft-skills-and-architecture
 ---
 
 During my professional life I had the opportunity to cover different positions (as developer, project manager, architect), within different industries (logistics, energy, finance, telecommunications), and several companies, although always in the IT departments.

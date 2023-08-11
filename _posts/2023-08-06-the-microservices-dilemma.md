@@ -5,6 +5,8 @@ tags: [microservices, architecture, integration, design, patterns]
 excerpt: Microservices is a popular architecture for building distributed applications, but how they differ from a traditional SOA?
 layout: single
 date: 2023-08-06 12:21
+lang: "en"
+ref: microservices-dilemma
 ---
 
 Since few years now the hype of the microservices architecture is growing and growing. It is a popular architecture for building distributed applications, separating and isolating the technologies needed to implement _domain-driven_ services, such as they can be developed, deployed and scaled independently by one or more teams. But how they differ from a traditional SOA?

@@ -5,6 +5,8 @@ date: 2023-06-06 20:40:40 +0200
 categories: [startup]
 tags: [architecture, startup, development, business, failure, success]
 excerpt: "Sometimes we succeed to fail, doing something we love, following the white rabbit of passion into a deep hole of bad choices"
+lang: en
+ref: story-of-a-successful-failure
 ---
 
 ![Startup](/assets/img/2023-06-06-story-of-a-successful-failure/light-bulb-ideas-creative-diagram-concept.png)
