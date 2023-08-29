@@ -1,8 +1,8 @@
 ---
-title: The Dynamics of Emerging Architecture in Organizations
+title: The Dynamics of Emerging Architecture in Agile Organizations
 layout: single
 excerpt: "Organizations are complex and layered systems, where applications and services are the result of designs over time and not of a single architectural vision."
-tags: architecture, organization
+tags: [architecture, organization, agile, design, organization]
 category: architecture
 date: "2023-08-28T08:23:22+01:00"
 lang: en
@@ -17,6 +17,8 @@ In such a scenario, the _enterprise architecture_ is usually not a concern, sinc
 
 ## Moving to the Next Level
 
+![Organization](/assets/img/2023-08-28-the-dynamics-of-emerging-architecture/colleagues-working-together-planning.jpg){: .align-center}
+
 When the organization starts to grow, the number of people involved in the development of the systems increases, and the number of systems and applications increases, the complexity of the overall architecture increases, and the need for a dedicated function to manage it becomes more and more evident.
 
 To such a complexity and _growth pain_, it is usually added the need to maintain the existing systems, which are usually not designed to be easily changed, since they were typically implemented to serve an immediate need, and not to be part of a long-term strategy: such systems are usually called _legacy_ systems, and they are usually the most difficult to change, since they are the result of a _[legacy architecture](https://en.wikipedia.org/wiki/Legacy_system)_.
@@ -25,7 +27,7 @@ In several situations, I found myself approaching the source code of some of the
 
 Anyway, organizations who grow face new problems and challenges, often underestimated and not considered in the initial design of the systems, and they are forced to adapt and evolve the architecture of their systems, to make them more resilient, scalable, maintainable and secure.
 
-For example, a growth in the number of users of a system might require to scale the system horizontally, to increase the number of instances of the application, to serve the increased number of requests, or to scale the system vertically, to increase the capacity of the existing instances, to serve the increased number of requests, or to acquire services from external providers, terminating some functions currently implemented in the system.
+For example, a growth in the number of users of a system might require to [scale the system](https://en.wikipedia.org/wiki/Scalability#Horizontal_(scale_out)_and_vertical_scaling_(scale_up)) _horizontally_, to increase the number of instances of the application, to serve the increased number of requests, or to scale the system _vertically_, to increase the capacity of the existing instances, to serve the increased number of requests, or to acquire services from external providers, terminating some functions currently implemented in the system.
 
 ## The Emergence of Architectures
 
@@ -33,13 +35,19 @@ The evolution of the architecture of the systems of an organization is usually t
 
 As much as one might want to academically state that the architecture of an enterprise can be clearly defined and designed, the reality is that the architecture of an organization is the result of the _emergent_ behaviors of the organization itself: choices are taken by decentralized teams, with the ambitions of solving the problems they are facing, and not of designing the overall architecture of the organization.
 
-These dynamics within the organization are usually the result of the _[Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law)_, which states that _'organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations'_, and it's particularly observable in _Agile_ organizations, where the teams are self-organized and autonomous, and they are not constrained by a centralized architecture function, producing a multitude of services and applications which implement each one a specific set of patterns and practices, reflecting the skills and knowledge of the team who designed and implemented them, rather than a coherent and consistent architecture.
+These dynamics within the organization are usually the result of the _[Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law)_, which states that
+
+>'Organizations which design systems \[...\] are constrained to produce designs which are copies of the communication structures of these organizations'
+
+Such a dynamic is particularly observable in _Agile_ organizations, where the teams are self-organized and autonomous, and they are not constrained by a centralized architecture function, producing a multitude of services and applications which implement each one a specific set of patterns and practices, reflecting the skills and knowledge of the team who designed and implemented them, rather than a coherent and consistent architecture.
 
 Enterprise Architects who belong to such organizations should resist the impulse to _rationalize_ and operate any _military force_ to restrain such movements, frustrating the values and mission of the organization, that intentionally has chosen such technical paths, but rather try to make sense of the _emergent_ architecture, trying to identify the patterns and the commonalities between the different systems, and trying to identify the best practices and the standards to be applied to the different systems.
 
 I never found it productive trying to impose a _top-down_ approach to the design of the architecture of an organization, going against the existing asset of people, skills and systems, but rather trying to influence them, by providing the teams with the right tools, standards and best practices, to make them more effective and efficient, communicative and collaborative.
 
 ## Mixing Intentional and Emergent Architectures
+
+![Emerging Architecture Comic](/assets/img/2023-08-28-the-dynamics-of-emerging-architecture/Comic-agile_213.png){: .align-center }
 
 As mentioned above, successful organizations grow and evolve, and with them the enterprise architecture of the systems they are composed of: this means that large portions of the functions implemented internally (eg. CRM, ERP, communications, etc.) are usually replaced by external services, externalizing costs, risks, resources, and focusing on the core business of the organization.
 
@@ -51,17 +59,25 @@ The answer I have given myself (without any ambition of being the right one), is
 
 ## Collaborative Design
 
+![Collaborative Design](/assets/img/2023-08-28-the-dynamics-of-emerging-architecture/software-developers-sitting-desk.jpg){: .align-center }
+
 Although it is not always possible to control precisely the design of the architecture of an organization, it is anyway possible to influence it, by providing the teams with the right tools, standards and best practices, to make them more effective and efficient, communicative and collaborative: ultimately, the sharing of the common knowledge, patterns, practices and standards, will make the teams more effective and efficient, and will make the architecture of the organization more consistent and coherent.
 
 For an organization, keeping the set of principles, standards, technologies (aka the _"IT Strategy"_) consistent is a matter of cost control, investment opportunities, resource management, and ultimately of _[technical debt](https://en.wikipedia.org/wiki/Technical_debt)_: the more the organization is able to keep the _IT Strategy_ consistent, the more it will be able to control the costs of the systems, the investments in new technologies, the management of the resources, and the reduction of the technical debt.
 
 ## Managing the Expectations
 
-The core aspect to manage when applying such an _agile_ approach to enterprise architecture is the expectations of the stakeholders of the organization, who are usually expecting a clear and defined architecture, with a clear and defined roadmap, and not an _emergent_ architecture, which delegates responsibilities of the design to the teams, low in the organization chart and level of details.
+The core aspect to manage when applying such an _agile_ approach to enterprise architecture is the expectations of the stakeholders of the organization, who are usually looking towards a clear and defined architecture, with a clear and defined roadmap, and not an _emergent_ architecture, which delegates responsibilities of the design to the teams, low in the organization chart and level of details, introducing insecurity and uncertainty.
 
-Not only the management of the organization would likely oppose this view, when hiring an Enterprise Architect, but also the teams themselves would not like to be charged with such a responsibility, since they are usually focused on the short-term objectives, and not on the long-term ones.
+One of the key aspects considered by mature management of an organization, when hiring an Enterprise Architect, is to remove the unpredictability of target states of the IT landscape, and to reduce or eliminate the uncontrolled fluctuation of costs, things that ideally require a full control of the architect over the whole set of technologies, development processes, infrastructures and possibly people: something that is in contrast with the _agile_ approach to enterprise architecture, where the architect is not the one who designs the architecture, but rather the one who coordinates the design process, and the one who provides the teams with the right tools, standards and best practices, to make them more effective and efficient, communicative and collaborative.
 
-In fact, the quick assumption that might come up is "if the teams are the ones designing the architecture, what is the role of the Enterprise Architect?".
+I have also generally observed (and it's part of the academic literature on the matter) that teams, rightfully, tend to refuse the responsibility of design an overall architecture that is not under their immediate control, and that they are not able to influence: this is a natural reaction to the fear of being blamed for the failure of the architecture, and the fear of being held responsible for the consequences of the design choices, especially when the teams are not involved in the decision making process.
+
+### The Role of the Enterprise Architect
+
+![Architect Working](/assets/img/2023-08-28-the-dynamics-of-emerging-architecture/man-working-night_1098-12798.png){: .align-center }
+
+Without frustrating the agile ambitions of the organization, the management should then expect an Enterprise Architect to work as a facilitator of the emerging designs of the single parts of the overall enterprise architecture, without any ambition that he/she would be able to control the various parts in details.
 
 The concept of "architecture" was imported into software development from the construction industry, where the architect is the one who designs the building, and then the construction workers are the ones who build it, following the design of the architect: this parallelism had (and in some, very niche, contexts still _has_) a meaning following the _waterfall_ approach to software development, where the design of the architecture is done upfront, and then the development teams are the ones who implement it, following the design of the architect.
 

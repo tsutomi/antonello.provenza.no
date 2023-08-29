@@ -4,6 +4,8 @@ title: Webhooks Activate Asynchronous Integration Patterns
 category: open-source
 tags: [opensource, integration, webhooks, asynchronous]
 excerpt: Activate the asynchronous integration patterns with webhooks is a common practice for service providers who wish to provide triggers and updates to their consumers.
+lang: en
+ref: webhooks-activate-asynchronous
 ---
 
 In today's interconnected world, effective integration between various systems and services is crucial for the smooth operation of applications: _[Webhooks](https://en.wikipedia.org/wiki/Webhook)_ have emerged as a powerful mechanism for enabling real-time communication and event-driven architectures, enabling consuming applications to be triggered by events occurring in the service provider scope.
