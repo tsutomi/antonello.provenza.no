@@ -9,17 +9,19 @@ ref: resume-based-development
 lang: en
 ---
 
-Projects and services are sometimes built by architects and developers to look good on a resume, not to solve a problem: this is a problem because it leads to a lot of waste and frustration. It also leads to a lot of technical debt and unmaintainable code.
+Projects and services are sometimes developed by architects and developers with the sole intention of enhancing their resumes, rather than addressing real problems. This practice poses significant issues as it results in wastage, frustration, technical debt, and the creation of unmaintainable code.
 
 <!--more-->
 
 ## The Dynamics of Resume Based Development
 
-Organizations that have an agile software development process in place are more likely to suffer of a _resume based development approach_: this is because agile teams are often given a lot of autonomy to decide what to build and how to build it.
+![Resume](/assets/img/2023-09-03-resume-based-development/resume-apply-work-form.jpg){: .align-center }
 
-Since, rightfully, one of the key skills to look for in a developer is the ability to learn new things, developers are often given the opportunity to learn new technologies and frameworks: unfortunately, this often leads to the adoption of new _hyped_ technologies and frameworks that are not needed to solve the problem at hand.
+Organizations with an established agile software development process are more susceptible to encountering a _resume-based development_ approach. This vulnerability arises due to the significant autonomy afforded to agile teams in determining both what to build and how to build it.
 
-Sometimes this choice is driven by the sincere desire to provide the organization with a modern, future proof, solution, while in other cases (by my experience, the majority) this is only an _egoistic_ choice intended to provide the developer with a new skill to put on the resume, for internal career advancement or for external job hunting.
+One of the fundamental skills to seek in a developer is the ability to learn new technologies and frameworks. Consequently, developers are frequently provided with opportunities to acquire these skills. Regrettably, this sometimes results in the adoption of trendy and _hyped_ technologies and frameworks that do not serve the immediate problem.
+
+Occasionally, this choice is motivated by a genuine desire to equip the organization with a modern, future-proof solution. However, in many instances (as per my experience, the majority), it represents a _self-serving_ decision aimed at enhancing the developer's resume for internal career growth or external job prospects.
 
 ### Overengineering Solutions to Problems
 
@@ -31,17 +33,19 @@ I had to face myself several occasions where the implementation of a service was
 
 ## The Impact on the Organization
 
+![Colleagues Having Headache](/assets/img/2023-09-03-resume-based-development/group-business-colleagues-having-headache.jpg) {: .align-center }
+
 Working with mature technologies and frameworks surely provides benefits like _predictability_, _support_, _patterns_, while at the contrary adopting innovative approaches to the implementation of services introduces a lot of _uncertainty_ and _risk_.
 
 Product managers, product owners, and business analysts, are often not aware of the technical implications of the choices made by the team, and they are not able to assess the risk of adopting a new technology or framework, which is often not even mentioned in the requirements: here the relationship and trust between parties is key to avoid the adoption of a solution that is not the best fit for the problem at hand.
 
-The uncertainty and risk introduced by the adoption of new technologies likely results in slower pace of development, and in the worst case in the failure of the project, which is a waste of time and money for the organization.
+The uncertainty and risk associated with the adoption of new technologies often lead to a slower development pace and, in the worst-case scenario, project failure - a significant waste of both time and resources for the organization.
 
 ### The CQRS and Event Sourcing Example
 
-Few years ago, before CQRS was a well known pattern, I had to face a situation in which one of the developers charged with the _architecture_ of the security component, crucial for the large solution I was working on, decided to implement that component using CQRS and Event Sourcing, as a green field solution, instead of relying on mature technologies, like Active Directory, as instructed by myself.
+A few years ago, before [CQRS](https://martinfowler.com/bliki/CQRS.html) became a well-known pattern, I encountered a situation in which one of the developers responsible for the _architecture_ of a critical security component, vital for the large-scale solution I was working on, chose to implement it using _CQRS and Event Sourcing_ as a greenfield solution, contrary to my recommendations to rely on mature technologies such as [Active Directory](https://en.wikipedia.org/wiki/Active_Directory).
 
-None at that time knew CQRS and Event Sourcing well, and I had to study the pattern myself, to understand the implications of the choice made by the developer: given the uncertainty and risk introduced by the adoption of a new pattern, and the lack of any vendor to support it (in fact, the developer himself implemented a framework to support it), I asked him and the organization to desist and adopt a more mature technology, but I was overruled.
+None at that time, either within the organization or in the industry, knew CQRS and Event Sourcing well, and I had to study the pattern myself, to understand the implications of the choice made by the developer: given the uncertainty and risk introduced by the adoption of a new pattern, and the lack of any vendor to support it (in fact, the developer himself implemented a framework to support it), I asked him and the organization to desist and adopt a more mature technology, but I was overruled.
 
 Two years passed by, through implementations, experiments, failures, without the component to ever be functional, with an enormous waste of time and money for the organization, and with the developer to leave the organization, leaving the component in a state of _limbo_.
 
@@ -63,9 +67,11 @@ The choice of adopting new technologies and patterns to implement a service is n
 
 ### The Innovation Stream
 
+![Developer at Work](/assets/img/2023-09-03-resume-based-development/javascript-developer.jpg){: .align-center }
+
 Developers are generally (and hopefully) attracted by innovation, experimentation, and learning: being in a job where you can be excited by the opportunity to learn new technologies, free from the burden of risk, is a key motivator for developers to join a company, grow with it and stay.
 
-Unfortunately, the adoption of new technologies and patterns is not always a smooth process, and it is not always successful: providing a safe space for innovation by the organization is a key factor to attract and retain talent, but it is also a key factor to avoid the adoption of new technologies and patterns to be driven by the _resume based development_ approach.
+Regrettably, the adoption of new technologies and patterns does not always proceed smoothly, and success is not guaranteed. While offering a secure environment for innovation within the organization is vital for attracting and retaining talent, it is equally crucial to prevent the adoption of new technologies and patterns from being solely driven by the _resume-based development_ approach.
 
 Mature organizations allocate resources and time to the _innovation stream_, where product development teams feel safe to experiment with new technologies, evaluating their complexity and risks, learning from the experience, and sharing the knowledge with the rest of the organization.
 
