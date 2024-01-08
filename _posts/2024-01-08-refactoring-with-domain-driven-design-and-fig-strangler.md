@@ -1,7 +1,6 @@
 ---
 layout: single
-title: "Refactoring Applications with Domain-Driven Design and Fig Strangler Pattern"
-date: 2024-01-08 21:34
+title: Refactoring Applications with Domain-Driven Design and Fig Strangler Pattern
 tags: [domain-driven-design, refactoring, architecture, patterns]
 category: architecture
 excerpt: "Migrating from a monolithic application to a microservices architecture using Domain-Driven Design might be complex and can be done in phases."
