@@ -104,15 +104,15 @@ author:
   name: "Antonello Provenzano"
   avatar: "/assets/img/antonello.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Man. Architect. Developer."
-  location: "Oslo"
+  location: "Lugano / Zurich, Switzerland"
   email:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:antonello@provenza.no"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/tsutomi"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/tsutomi"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -129,9 +129,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/tsutomi"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/tsutomi"
     - label:
       icon: "fab fa-fw fa-mastodon"
       url: "https://mastodon.social/@tsutomi"
